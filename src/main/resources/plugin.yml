@@ -1,0 +1,5 @@
+name: PlayerSeen
+version: '1.0'
+main: dev.dynant.playerSeen.PlayerSeen
+api-version: '1.21'
+author: Dynant
